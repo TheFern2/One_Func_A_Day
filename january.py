@@ -1,9 +1,10 @@
+# built-in methods
+
 func = [
     "abs",
     "ascii",
     "bool",
     "divmod",
-    "breakpoint",
     "print",
     "len",
     "eval",
